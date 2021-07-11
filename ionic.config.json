@@ -1,0 +1,7 @@
+{
+  "name": "time-budget-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
